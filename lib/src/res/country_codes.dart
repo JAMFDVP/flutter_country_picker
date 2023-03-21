@@ -1852,9 +1852,9 @@ final List<Map<String, dynamic>> countryCodes = [
     "geographic": true,
     "level": 1,
     "name": "Mexico",
-    "example": "12221234567",
+    "example": "2221234567",
     "display_name": "Mexico (MX) [+52]",
-    "full_example_with_plus_sign": "+5212221234567",
+    "full_example_with_plus_sign": "+522221234567",
     "display_name_no_e164_cc": "Mexico (MX)",
     "e164_key": "52-MX-0"
   },
